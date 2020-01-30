@@ -1,6 +1,4 @@
-sonar-scanning-examples
-Copyright (C) 2016-2017 SonarSource SA
-mailto:info AT sonarsource DOT com
+sonar-code-analysis
+Copyright (C) 2020-2021 
 
-This product includes software developed at
-SonarSource (http://www.sonarsource.com/).
+
